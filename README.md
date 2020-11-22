@@ -21,6 +21,7 @@ Debian-based distributions: `sudo apt-get install xclip`
 Arch-based distributions: `sudo pacman -S xclip`
 
 **docx2txt**
+
 `pip install docx2txt`
 
 ## Usage
