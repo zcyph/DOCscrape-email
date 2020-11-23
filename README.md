@@ -4,7 +4,7 @@ DOCscrape-email: a script to extract emails from Microsoft Word documents. If yo
 
 **Python**
 
-This is a Python script, so of course you need to have Python installed to run it. The exact command may vary depending on your exact system configuration. You can skip this step if you already know Python is installed.
+This is a Python script, so of course you need to have Python installed to run it. The command may vary depending on your system configuration. You can skip this step if you already know Python is installed.
 
 Debian-based distributions: `sudo apt-get install python`
 
