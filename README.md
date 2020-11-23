@@ -1,3 +1,5 @@
+DOCscrape-email: a script to extract emails from Microsoft Word documents. If you're having trouble manually copying a number of email addresess from .DOCX files, give this a try. I hope it helps! Apologies, but it will unfortunately NOT work with legacy .DOC formatted files. Please ensure you're working with .DOCX - you can save to the newer format, even with LibreOffice. :)
+
 ## Requirements
 
 **Python**
@@ -42,5 +44,4 @@ If the file does not reside in the same folder as the script, enter the full abs
 
 ![](https://github.com/zcyph/DOCscrape-email/blob/master/screenshot.png?raw=true)
 
-
-
+The script will give you an option to copy the list of emails to clipboard, and an option to copy them to a text file.
